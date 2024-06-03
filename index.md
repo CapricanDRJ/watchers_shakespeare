@@ -2,10 +2,11 @@
 title: "The fall of The Watchers"
 layout: default
 ---
+# The Fall Of The Watchers
 
-# Act I: The Rise of Tension
+## Act I: The Rise of Tension
 
-## Scene 1: The Return of Ilistar
+### Scene 1: The Return of Ilistar
 
 *[Enter Ilistar, returning from a long absence]*
 
@@ -23,7 +24,7 @@ Fear not, Minsokk. I shall restore Watchers to its former glory. Our assets shal
 *[Minsokk, wary of Ilistar's intentions, nods but remains cautious]*
 
 
-## Scene 2: The Secret Council Convenes
+### Scene 2: The Secret Council Convenes
 
 *[Enter Minsokk, Axius, Caprican, and Kestra Akada in a secret chamber]*
 
@@ -45,7 +46,7 @@ I shall heed thy advice, my friends. We must prepare for the storm that Ilistar 
 *[The council discusses strategies and plans to safeguard Watchers]*
 
 
-## Scene 3: Declaration of Enemies
+### Scene 3: Declaration of Enemies
 
 *[Enter Ilistar, addressing Minsokk]*
 
@@ -65,7 +66,7 @@ Caprican, too, is a threat. His influence must be curtailed. He is the number on
 *[Minsokk is troubled by Ilistar's growing influence and decides to consult the council]*
 
 
-## Scene 4: The Council's Decision
+### Scene 4: The Council's Decision
 
 *[The secret council meets again]*
 
@@ -85,7 +86,7 @@ Minsokk, Morbidzero is of the old guard, an architect of Watchers' early triumph
 Very well. Morbidzero shall be restored, and he shall join our secret council. Together, we shall navigate the treacherous waters ahead.
 
 
-## Scene 5: Ilistar's Demotion
+### Scene 5: Ilistar's Demotion
 
 *[Minsokk confronts Ilistar]*
 
@@ -103,7 +104,7 @@ It is for the good of Watchers. Thou mayst focus on internal matters, but diplom
 **[Ilistar:]**
 This insult shall not stand. Minsokk shall rue the day they turned on me.
 
-## Scene 6: The Aftermath
+### Scene 6: The Aftermath
 
 *[The council meets to discuss the repercussions]*
 
@@ -122,9 +123,9 @@ Indeed, I shall. With thy counsel, we shall weather whatever comes our way.
 *[The council members nod in agreement, ready to face the challenges ahead]*
 
 
-# Act II: The Rising Tempest
+## Act II: The Rising Tempest
 
-## Scene 1: Minsokk's Burden
+### Scene 1: Minsokk's Burden
 
 *[Enter Minsokk, weary and burdened with the responsibilities of leadership]*
 
@@ -146,7 +147,7 @@ The troubles Ilistar hath sown in foreign lands still haunt us. His actions hath
 Thy counsel is invaluable, my friends. We must remain vigilant and united, lest Ilistar's ambition lead us to ruin.
 
 
-## Scene 2: Council Deliberation
+### Scene 2: Council Deliberation
 
 *[The secret council convenes, now including Morbidzero]*
 
@@ -169,7 +170,7 @@ Morbidzero, thou art old guard, an ally in building our assets. Together, we sha
 Very well. Let us prepare for what lies ahead. Ilistar's ambitions must be curbed for the good of Watchers.
 
 
-## Scene 3: Ilistar's Demotion
+### Scene 3: Ilistar's Demotion
 
 *[Minsokk confronts Ilistar in the whitestar planning room]*
 
@@ -188,7 +189,7 @@ It is for the good of Watchers. Thy actions have left scars on our diplomacy. Fo
 This insult shall not stand. Minsokk shall rue the day they turned on me.
 
 
-## Scene 4: Ilistar's Grand Standing
+### Scene 4: Ilistar's Grand Standing
 
 *[Ilistar, in the whitestar planning room, removes certain members and invites others without notice]*
 
@@ -213,7 +214,7 @@ We depart from this place, to forge our own destiny. Those who stand with me, le
 *[Ilistar exits with several members, heading to the kingdom of Stargate to partake in their whitestar mission, leaving the Watchers' whitestar mission in disarray]*
 
 
-## Scene 5: Aftermath and Preparations
+### Scene 5: Aftermath and Preparations
 
 *[The council meets to discuss the repercussions]*
 
@@ -232,9 +233,9 @@ Indeed, I shall. With thy counsel, we shall weather whatever comes our way. Unit
 *[The council members nod in agreement, ready to face the challenges ahead]*
 
 
-# Act III: The Shattering Bonds
+## Act III: The Shattering Bonds
 
-## Scene 1: The Aftermath of Ilistar's Departure
+### Scene 1: The Aftermath of Ilistar's Departure
 
 *[The Watchers' kingdom, now weakened by the departure of Ilistar and his followers]*
 
@@ -259,7 +260,7 @@ We have weathered storms before, and we shall again. Let us remain steadfast and
 Thy counsel is invaluable, my friends. We must remain vigilant and united, lest Ilistar's ambition lead us to ruin.
 
 
-## Scene 2: Zx's Antagonism
+### Scene 2: Zx's Antagonism
 
 *[The Watchers' kingdom, in the aftermath of the failed whitestar mission]*
 
@@ -280,7 +281,7 @@ Nay, Minsokk. I shall not yield. Thy leadership is unworthy, and this kingdom sh
 (Aside) The words of Ilistar have stirred Zx against me. Together, they seek to suffocate the Watchers' kingdom.
 
 
-## Scene 3: Council's Struggle
+### Scene 3: Council's Struggle
 
 *[The secret council chamber]*
 
@@ -303,7 +304,7 @@ We have faced dire times before and emerged stronger. Let us not hasten to destr
 Thy words are heavy with truth. We stand at a crossroads, and our choice will shape the fate of Watchers.
 
 
-## Scene 4: Minsokk's Isolation
+### Scene 4: Minsokk's Isolation
 
 *[Minsokk's private chamber]*
 
@@ -316,7 +317,7 @@ Alas, the burden of leadership weighs heavy upon my soul. Betrayed by Ilistar, b
 (Aside) In the silence of my chamber, I see the shadows of our past and the uncertainty of our future. I must find the strength to lead, or let the kingdom fall to ruin.
 
 
-## Scene 5: The Council's Dilemma
+### Scene 5: The Council's Dilemma
 
 *[The secret council chamber]*
 
@@ -336,7 +337,7 @@ Seek out former allies, rebuild the bridges that have been burned. Our unity is 
 Indeed, we must act. The future of Watchers depends on our unity and our resolve. Together, we shall face this storm and emerge stronger.
 
 
-## Scene 6: The Build-Up to Destruction
+### Scene 6: The Build-Up to Destruction
 
 *[The Watchers' kingdom, as tensions reach a breaking point]*
 
@@ -351,9 +352,9 @@ I shall not yield, Minsokk. Thy leadership is unworthy, and the kingdom shall su
 *[Minsokk, in a state of sickness and delirium, contemplates the destruction of the kingdom to punish Zx and Ilistar]*
 
 
-# Act IV: The Final Blow and Aftermath
+## Act IV: The Final Blow and Aftermath
 
-## Scene 1: The Secret Council’s Last Meeting
+### Scene 1: The Secret Council’s Last Meeting
 
 *[Enter Minsokk, Axius, Caprican, Kestra Akada, and Morbidzero in the secret council chamber]*
 
@@ -375,7 +376,7 @@ As one who once helped build Watchers, my heart aches to see it fall. But perhap
 *[The council members nod, and Minsokk looks resolute]*
 
 
-## Scene 2: The Confrontation with Ilistar
+### Scene 2: The Confrontation with Ilistar
 
 *[Enter Minsokk, standing before Ilistar]*
 
@@ -391,7 +392,7 @@ Nay, Minsokk. My time as leader is over. The kingdom shall not be returned to me
 What an insult! After all the damage thou hast wrought, thou wilt not even accept the fruits of thy own labor. This kingdom is left in shambles, and thou wouldst cast it aside so easily?
 
 
-## Scene 3: Minsokk’s Decision
+### Scene 3: Minsokk’s Decision
 
 *[Enter Minsokk, alone in the throne room, deep in thought]*
 
@@ -401,7 +402,7 @@ The kingdom is in tatters, and my allies grow weary. Ilistar and Zx have pushed 
 *[Minsokk sends notice to Zx, inviting him back to the kingdom]*
 
 
-## Scene 4: The Final Act of Destruction
+### Scene 4: The Final Act of Destruction
 
 *[Enter Zx, arriving at the kingdom]*
 
@@ -422,7 +423,7 @@ This is the final stroke. Thou and Ilistar have already destroyed what once was.
 *[Zx watches in horror as Minsokk completes the destruction, burning the library and records, and the kingdom of Watchers is no more]*
 
 
-## Scene 5: A New Beginning
+### Scene 5: A New Beginning
 
 *[Enter Minsokk and Axius, standing amidst the ruins of the kingdom]*
 
@@ -455,9 +456,9 @@ Indeed, I feel a strange sense of relief. The crown of Watchers bore many burden
 *[The group stands united, ready to embark on a new journey, as the curtain falls]*
 
 
-# Act V: The Aftermath and New Beginnings
+## Act V: The Aftermath and New Beginnings
 
-## Scene 1: Minsokk's Reflection
+### Scene 1: Minsokk's Reflection
 
 *[Enter Minsokk and Axius, walking through the ruins of the old kingdom]*
 
@@ -471,7 +472,7 @@ Thou didst what thou could, Minsokk. The legacy of Watchers was marred long befo
 Indeed, Axius. Though I regret the loss, I would make the same choice again. The deeds of Ilistar were a burden too great for any crown.
 
 
-## Scene 2: Gathering Allies
+### Scene 2: Gathering Allies
 
 *[Enter Minsokk, Axius, Caprican, Kestra Akada, Morbidzero, and various other characters discussing the aftermath]*
 
@@ -502,7 +503,7 @@ Indeed. The burdens of leadership are heavy, and the decisions made are not alwa
 With thy support, I feel renewed. Let us gather our allies and begin anew. The dawn of a new era is upon us.
 
 
-## Scene 3: The Aftermath of Destruction
+### Scene 3: The Aftermath of Destruction
 
 *[Enter Ilistar, Zx, and various followers amidst the ruins]*
 
@@ -535,7 +536,7 @@ I swear, Caprican. Thou shalt pay for this treachery, and the price shall be ste
 *[The followers murmur among themselves, uncertain of whom to trust]*
 
 
-## Scene 4: Facing Accusations
+### Scene 4: Facing Accusations
 
 *[Enter Minsokk, Axius, Caprican, Kestra Akada, Morbidzero, Phazyme, Psycopower, and various followers]*
 
@@ -558,7 +559,7 @@ Indeed. The burdens of leadership are heavy, and the decisions made are not alwa
 Let us not dwell on the ashes of Watchers. Instead, let us focus on the new dawn that lies ahead. Together, we can create a future worthy of our efforts.
 
 
-## Scene 5: Hope and Resolve
+### Scene 5: Hope and Resolve
 
 *[Enter Minsokk, Axius, Morbidzero, Caprican, Kestra Akada, Phazyme, Psycopower, and other allies at a symbolic location]*
 
