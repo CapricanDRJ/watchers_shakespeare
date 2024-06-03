@@ -583,3 +583,6 @@ The past is behind us, and the future is ours to shape. Let us move forward with
 
 **[Minos:]**
 With thy support, I am confident we shall succeed. Let us embark on this new journey, and may our efforts be rewarded with prosperity and peace.
+
+**[Kestrelia:]**
+With every step, our bonds of friendship bind, A testament to what we leave behind. The Watchers’ tale, a guide for future days, In unity, we forge our different ways.
