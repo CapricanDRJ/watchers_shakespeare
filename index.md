@@ -387,7 +387,7 @@ As one who once helped build Watchers, my heart aches to see it fall. But perhap
 Ilistus, I demand thee to take the kingdom from me. Thy actions have led us to ruin, and only by thy leadership can we hope to rebuild.
 
 **[Ilistus:]**
-Nay, Minos. My time as leader is over. The kingdom shall not be returned to me, nor shall I take it. Give it to someone else, such as Bonts or Thanos.
+Nay, Minos. My time as leader is over. The kingdom shall not be returned to me, nor shall I take it. Give it to someone else, such as Balthasar or Theseus.
 
 *[Ilistus exits, leaving Minos in despair]*
 
