@@ -68,7 +68,7 @@ For Watchers' fate hangs in these coming days.
 
 *[Enter Minos, with steadfast mien, and by his side, Axion, Capricio, Kestrelia do confide. Within a chamber veiled from prying eyes they stand, Their brows all furrowed, heavy with command.]*
 
-*[Minos]*
+**[Minos]**
 
 Capricio, wise, and Kestrelia, keen of sight,
 
@@ -82,7 +82,7 @@ For Watchers' fate I tremble, lest it fall,
 
 A victim to his pride that conquers all.
 
-*[Capricio]*
+**[Capricio]**
 
 Your words, Minos, do echo truth's decree,
 
@@ -92,7 +92,7 @@ His history, a web of twisted lies,
 
 Demands from us a cautious, watchful guise.
 
-*[Kestrelia]*
+**[Kestrelia]**
 
 In times of storm, when tempests rage and swell,
 
@@ -106,7 +106,7 @@ Let discord's whispers find no purchase here,
 
 May harmony and reason banish fear.
 
-*[Axion]*
+**[Axion]**
 
 My counsel, friend, with loyalty I bring:
 
@@ -120,7 +120,7 @@ Our defenses, let us bolster and make fast,
 
 Lest Watchers crumble 'neath ambition's blast.
 
-*[Minos]*
+**[Minos]**
 
 Your voices, friends, a chorus strong and true,
 
@@ -616,11 +616,11 @@ To ruin and despair. Together, we
 Shall overcome the trials that lie ahead.
 
 
-### Act III Scene II: Zadkiel's Antagonism
+### Act III Scene II: Zyx's Antagonism
 
 *[The Watchers' kingdom, in the aftermath of the failed tournament]*
 
-**[Zadkiel]**
+**[Zyx]**
 
 Minos, thou art not fit to lead us here.  
 
@@ -628,17 +628,17 @@ Thy claim unto the throne is null and void.
 
 Thou art not even of this kingdom’s blood!
 
-*[Zadkiel holds the kingdom's assets hostage, refusing to release control to Minos]*
+*[Zyx holds the kingdom's assets hostage, refusing to release control to Minos]*
 
 **[Minos]**
 
-Zadkiel, thy actions sow discord and strife.  
+Zyx, thy actions sow discord and strife.  
 
 Release the assets, let us now rebuild,  
 
 And bring some peace unto this troubled realm.
 
-**[Zadkiel]**
+**[Zyx]**
 
 Nay, Minos. I shall not yield to thy rule.  
 
@@ -646,13 +646,13 @@ Thy leadership is weak and unworthy.
 
 This kingdom shall indeed suffer for it.
 
-*[Zadkiel stands firm in his defiance]*
+*[Zyx stands firm in his defiance]*
 
 **[Minos]** *Aside*
 
 The words of Ilistus have stirred this fire,  
 
-And Zadkiel now stands against me strong.  
+And Zyx now stands against me strong.  
 
 Together, they conspire to choke and crush  
 
@@ -704,7 +704,7 @@ Years ago, the crown I would avow
 
 Too heavy for such trials. Yet, rage burns bright,
 
-For Zadkiel's treachery and Ilistus' blight!
+For Zyx's treachery and Ilistus' blight!
 
 Their wicked blades have shattered what remained
 
@@ -746,7 +746,7 @@ Leadership's burden, dragging spirit low.
 
 Ilistus' treachery, a poisoned dart,
 
-And Zadkiel's siege, that tears our realm apart.
+And Zyx's siege, that tears our realm apart.
 
 *He pauses, contemplating the vastness of the chamber*
 
@@ -774,7 +774,7 @@ I'll find the strength, or watch the kingdom mourn.
 
 A pox upon the strife that rends our land,
 
-Where Zadkiel's grip doth tighten, hearts grow sand.
+Where Zyx's grip doth tighten, hearts grow sand.
 
 The people murmur, doubt begins to creep,
 
@@ -828,7 +828,7 @@ And Watcher's spirit, o'er the storm shall ride!
 
 *[The kingdom trembles, a reflection of Minos's fracturing mind]*
 
-**[Zadkiel]**
+**[Zyx]**
 
 Never shall I yield, oh Minos, your sway,
 
@@ -838,7 +838,7 @@ Your rule is a blight, that leads Watchers astray.
 
 **[Minos]** *Aside*
 
-Zadkiel's defiance, a thorn in my side,
+Zyx's defiance, a thorn in my side,
 
 The kingdom reels, in chaos it will confide.
 
@@ -862,13 +862,13 @@ The crushing weight of Watchers' fate, a gnawing care.
 
 Ilistus' treachery, a serpent's venomed coil,
 
-And Zadkiel's rage have left our kingdom in turmoil.
+And Zyx's rage have left our kingdom in turmoil.
 
 **[Axion]** *eyes flashing with anger*
 
 Aye, deep the wound they carved with vile deceit,
 
-Ilistus' cunning plans, and Zadkiel's fierce retreat.
+Ilistus' cunning plans, and Zyx's fierce retreat.
 
 Perhaps from ashes we must rise anew,
 
@@ -958,7 +958,7 @@ My loyal subjects, weary of the sand
 
 That sifts through broken walls, where once they thrived.
 
-Ilistus' might and Zadkiel's wrath connived
+Ilistus' might and Zyx's wrath connived
 
 To push us to the precipice, where falls
 
@@ -976,7 +976,7 @@ I'll fight for every inch, no matter how far.
 
 *[Minos summons a herald, his voice firm yet laced with sorrow.]*
 
-A message swift to Zadkiel, let it fly,
+A message swift to Zyx, let it fly,
 
 Inviting him to parley 'neath the sky,
 
@@ -986,9 +986,9 @@ Perhaps a fragile peace can yet be fond.
 
 ### Act IV Scene IV: A Kingdom Laid to Waste
 
-*[Enter Zadkiel, with haste and troubled mien, He seeks the King, a storm within unseen.]*
+*[Enter Zyx, with haste and troubled mien, He seeks the King, a storm within unseen.]*
 
-**[Zadkiel]**
+**[Zyx]**
 
 Minos, my liege, a summons swift you sent,
 
@@ -996,7 +996,7 @@ What weighs upon your mind, what dire intent?
 
 **[Minos]** *With voice of thunder, filled with bitter scorn*
 
-Turn, Zadkiel, turn, and witness what is born
+Turn, Zyx, turn, and witness what is born
 
 From seeds of treachery, a bitter harvest sown,
 
@@ -1010,7 +1010,7 @@ Behold the kingdom's ruin, all its glories flown!
 
 *[A pyre of memories, a cruel, tragic joke.]*
 
-**[Zadkiel]** *Aghast he cries, his voice with horror charged*
+**[Zyx]** *Aghast he cries, his voice with horror charged*
 
 What madness grips thee, Minos? Has thy heart enlarged
 
@@ -1022,13 +1022,13 @@ Where we, thy Watchers, built our sacred throne?
 
 This is the final act, the curtain's fall,
 
-Thy deeds, Zadkiel, have poisoned it all.
+Thy deeds, Zyx, have poisoned it all.
 
 With Ilistus' plotting, like a serpent's sting,
 
 You've brought our kingdom to its ruin's spring.
 
-**[Zadkiel]** *With pleading tone*
+**[Zyx]** *With pleading tone*
 
 But Minos, stay thy hand! Why wreak such woe?
 
@@ -1050,7 +1050,7 @@ Just smoldering embers, stories yet untold.
 
 *[The library burns, knowledge turns to sand.]*
 
-*[With heavy heart, Zadkiel watches, despair's tide,]*
+*[With heavy heart, Zyx watches, despair's tide,]*
 
 *[The Watchers' kingdom, lost, nowhere to hide.]*
 
@@ -1278,7 +1278,7 @@ A glorious new era on hallowed ground!
 
 ### Act V Scene III: 'Midst Crumbled Stone and Fallen Grace
 
-*[Enter Ilistus, Zadkiel, and Followers, their faces grim]*
+*[Enter Ilistus, Zyx, and Followers, their faces grim]*
 
 **[Ilistus]** *Gazing upon the wreckage*
 
@@ -1290,7 +1290,7 @@ These traitors' blades have wrought this woeful sight,
 
 Their treachery shall bathe in endless night!
 
-**[Zadkiel]** *Voice deep with sorrow*
+**[Zyx]** *Voice deep with sorrow*
 
 Thy words ring true, Ilistus. Minos' sin,
 
@@ -1360,7 +1360,7 @@ A twisted crown of thorns, where loyalty treads!
 
 *[Enter Minos, a crown askew, with Axion, Capricio, Kestrelia, Morbius, Phazymus, Psycharus, and a throng of followers]*
 
-**[Zadkiel]** *stepping forth, voice ringing with accusation*
+**[Zyx]** *stepping forth, voice ringing with accusation*
 
 Minos, thou standest here, a king of shattered dreams,
 
@@ -1372,7 +1372,7 @@ And on thy bloodied hands, their fate, a heavy lash!
 
 **[Minos]** *defensive, yet weary*
 
-Hold, Zadkiel! Hear me now, ere judgement swiftly falls,
+Hold, Zyx! Hear me now, ere judgement swiftly falls,
 
 The kingdom, long before, within its walls did crawl
 
