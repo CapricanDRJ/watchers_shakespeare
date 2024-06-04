@@ -205,7 +205,7 @@ We depart from this place, to forge our own destiny. Those who stand with me, le
 A bold move indeed, Minos. Ilistus's departure leaves a gaping wound in Watchers' ranks. We can only hope he doesn't turn to rash actions.
 
 **[Kestrelia:]**
-His ambition, a viper unleashed, will surely stir unrest amongst those swayed by his words. We must act swiftly to mend the fractures within our kingdom.
+His ambition, a viper unleashed, will surely stir unrest amongst those swayed by his words. We must act swiftly to mend the fractures within thy kingdom.
 
 **[Axion:]**
 The loyalty of our allies, once unwavering, will be tested. The scars left by Ilistus's divisive leadership may be deeper than we thought. We must embark on a mission of diplomacy, mending these rifts before they widen into chasms.
