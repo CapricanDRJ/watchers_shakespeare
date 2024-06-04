@@ -197,21 +197,21 @@ We depart from this place, to forge our own destiny. Those who stand with me, le
 *[Ilistus exits with several members, heading to the kingdom of Stargate to partake in their whitestar mission, leaving the Watchers' whitestar mission in disarray]*
 
 
-### Scene 4: Aftermath and Preparations
+###Scene 4: Cracks in the Foundation
 
-*[The council meets to discuss the repercussions]*
+*[The secret council chamber echoes with a heavy silence. The council members exchange uneasy glances.]*
 
 **[Capricio:]**
-Minos, thou hast made a bold move. Ilistus will not take this lightly.
+A bold move indeed, Minos. Ilistus's departure leaves a gaping wound in Watchers' ranks. We can only hope he doesn't turn to rash actions.
 
 **[Kestrelia:]**
-Prepare for the storm, Minos. Strengthen the kingdom from within and ensure our allies remain steadfast.
+His ambition, a viper unleashed, will surely stir unrest amongst those swayed by his words. We must act swiftly to mend the fractures within our kingdom.
 
 **[Axion:]**
-The scars left by Ilistus's leadership still trouble our diplomacy. We must mend these rifts and fortify our defenses.
+The loyalty of our allies, once unwavering, will be tested. The scars left by Ilistus's divisive leadership may be deeper than we thought. We must embark on a mission of diplomacy, mending these rifts before they widen into chasms.
 
 **[Minos:]**
-Indeed, I shall. With thy counsel, we shall weather whatever comes our way. Unity and resolve shall be our shield.
+Ilistus's treachery will not bring Watchers to its knees! We shall rebuild, stronger than before. We will solidify our defenses, ensuring no external threat can exploit this internal weakness.
 
 *[The council members nod in agreement, ready to face the challenges ahead]*
 
