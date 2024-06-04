@@ -197,7 +197,7 @@ We depart from this place, to forge our own destiny. Those who stand with me, le
 *[Ilistus exits with several members, heading to the kingdom of Stargate to partake in their whitestar mission, leaving the Watchers' whitestar mission in disarray]*
 
 
-###Scene 4: Cracks in the Foundation
+### Scene 4: Cracks in the Foundation
 
 *[The secret council chamber echoes with a heavy silence. The council members exchange uneasy glances.]*
 
