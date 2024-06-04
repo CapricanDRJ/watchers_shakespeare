@@ -1042,13 +1042,7 @@ Erased forever. What remains to hold?
 
 Just smoldering embers, stories yet untold.
 
-*[Minos, with a final gesture, sweeps his hand,]*
-
-*[The library burns, knowledge turns to sand.]*
-
-*[With heavy heart, Zyx watches, despair's tide,]*
-
-*[The Watchers' kingdom, lost, nowhere to hide.]*
+*[Minos, with a final gesture, sweeps his hand, The library burns, knowledge turns to sand. With heavy heart, Zyx watches, despair's tide, The Watchers' kingdom, lost, nowhere to hide.]*
 
 ### Act IV Scene V: Arise from the Ashes
 
