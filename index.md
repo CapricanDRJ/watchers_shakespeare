@@ -747,7 +747,7 @@ Ilistus' treachery, a poisoned dart,
 
 And Zyx's siege, that tears our realm apart.
 
-*He pauses, contemplating the vastness of the chamber*
+*[Minos pauses, contemplating the vastness of the chamber]*
 
 Within these walls, where whispers hold their sway,
 
@@ -757,7 +757,7 @@ The kingdom's fate, a tapestry unfurled,
 
 Hangs heavy, waiting for a king to wield.
 
-*He speaks with newfound resolve*
+*[Minos speaks with newfound resolve]*
 
 Though shadows lengthen, and the path unclear,
 
@@ -1001,13 +1001,10 @@ From seeds of treachery, a bitter harvest sown,
 
 Behold the kingdom's ruin, all its glories flown!
 
-*[A gesture grand, Minos unveils the sight,]*
-
-*[The once proud Watchers' realm, engulfed in night.]*
-
-*[Towers crumble, walls dissolve in smoke,]*
-
-*[A pyre of memories, a cruel, tragic joke.]*
+*[A gesture grand, Minos unveils the sight,
+The once proud Watchers' realm, engulfed in night.
+Towers crumble, walls dissolve in smoke,
+A pyre of memories, a cruel, tragic joke.]*
 
 **[Zyx]** *Aghast he cries, his voice with horror charged*
 
