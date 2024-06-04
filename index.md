@@ -13,32 +13,54 @@ title: "The fall of The Watchers"
 *[Enter Ilistus, cloaked in shadows after a lengthy absence. His eyes burn with ambition.]*
 
 **[Ilistus:]**
+
 Once more I step into the fray, my friends,
+
 This kingdom, Watchers, long in slumber steeped,
+
 Shall rise anew, its glory I shall mend,
+
 Beneath my hand, a destiny unreeled!
+
 
 *[Enter Minos, now the leader of Watchers]*
 
+
 **[Minos:]**
+
 Ilistus, returned, we greet thee with open arms,
+
 Though caution whispers, etched in troubled times.
+
 The path ahead brims with both threat and charms,
+
 A tangled web where peril often climbs.
 
+
 **[Ilistus:]**
+
 Fear not, Minos, for I, with purpose bold,
+
 Shall guide Watchers to a future bright!
+
 Our assets, vast, a story yet untold,
+
 Shall leave our foes with trembling and with fright!
+
 
 *[Minos, his brow furrowed with suspicion, offers a curt nod, his eyes never leaving Ilistus.]*
 
+
 **[Minos (aside):]**
+
 His words are fair, his promises ignite,
+
 But shadows lurk within his burning gaze.
+
 With cautious heart, I tread a path of night,
+
 For Watchers' fate hangs in these coming days.
+
 
 *[A tense silence hangs heavy in the air. Ilistus stands tall, a charismatic figure with a hidden agenda. Minos watches him intently, burdened by the weight of leadership and the uncertainty of Ilistus's return.]*
 
