@@ -172,27 +172,7 @@ Morbius, thou art old guard, an ally in building our assets. Together, we shall 
 **[Minos:]**
 Very well. Let us prepare for what lies ahead. Ilistus's ambitions must be curbed for the good of Watchers.
 
-
-### Scene 3: Ilistus's Demotion
-
-*[Minos confronts Ilistus in the whitestar planning room]*
-
-**[Minos:]**
-Ilistus, thy role in Watchers must be confined. Thou shalt no longer handle foreign affairs, for thy actions have sown discord among our allies. Thy duties shall be restricted to internal matters.
-
-**[Ilistus:]**
-What is this treachery? Thou wouldst strip me of my power and influence?
-
-**[Minos:]**
-It is for the good of Watchers. Thy actions have left scars on our diplomacy. Focus on our internal affairs and leave the rest to others.
-
-*[Ilistus, feeling betrayed and furious, exits the scene]*
-
-**[Ilistus:]**
-This insult shall not stand. Minos shall rue the day they turned on me.
-
-
-### Scene 4: Ilistus's Grand Standing
+### Scene 3: Ilistus's Grand Standing
 
 *[Ilistus, in the whitestar planning room, removes certain members and invites others without notice]*
 
@@ -217,7 +197,7 @@ We depart from this place, to forge our own destiny. Those who stand with me, le
 *[Ilistus exits with several members, heading to the kingdom of Stargate to partake in their whitestar mission, leaving the Watchers' whitestar mission in disarray]*
 
 
-### Scene 5: Aftermath and Preparations
+### Scene 4: Aftermath and Preparations
 
 *[The council meets to discuss the repercussions]*
 
