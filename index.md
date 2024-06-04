@@ -312,62 +312,61 @@ With wisdom's hand to guide, what storms may come, we'll quell.
 
 ## Act II: The Rising Tempest
 
-### Act II Scene I: Minos's Burden
+### Act II, Scene I: The Burden of Minos
 
-*[Enter Minos, weary and burdened with the responsibilities of leadership]*
+*[Enter Minos, his brow furrowed with care]*
 
-**[Minos]**
+**[Minos]** *With weary sigh*
 
-Alas, the weight of kingdom lies so heavy 
+A crown, a weight, a burden on this head,
 
-Upon my shoulders, laden with despair.  
+This kingdom's woes upon my shoulders rest.
 
-The path ahead is fraught with peril dire,  
+The path we walk is fraught with dangers dread,
 
-And Watchers’ stability hangs by a thread.
+A precipice where Watchers find no rest.
 
 *[Enter Capricio, Axion, and Kestrelia]*
 
 **[Capricio]**
 
-Minos, thou hast done well to steer us through  
+Great Minos, though through trials we have come,
 
-The troubled waters, yet a threat returns.  
+And weathered storms that threatened to engulf,
 
-Ilistus, with his schemes, doth cast a shade,  
+A shadow falls, a whisper of the drum
 
-A grave and looming danger to our realm.
+Of Ilistus' plotting, ever sly and wolfish.
 
 **[Kestrelia]**
 
-Indeed, good Minos, unity and wisdom  
+Aye, Minos, unity, a fortress strong,
 
-Are our greatest allies in this dark hour.  
+Whispers wisdom in this shadowed hour.
 
-We must strengthen resolve, from deep within,  
+Let hearts be steeled, let purpose bind us long,
 
-And safeguard our fair kingdom from all harm.
+To shield this realm from every vengeful power.
 
 **[Axion]**
 
-The troubles Ilistus hath sown abroad  
+The seeds of discord Ilistus did sow,
 
-Still haunt us now; his actions scarred our name.  
+Still bear their bitter fruit, a poisoned name.
 
-Diplomacy is shaken, allies wary,  
+Our trust is fractured, allies wary now,
 
-His machinations leave us in dismay.
+His machinations kindle burning shame.
 
 **[Minos]**
 
-Thy counsel is invaluable, my friends.  
+Your words, my friends, like beacons in the night,
 
-We must remain united, vigilant,  
+Guide us through darkness. We shall stand as one.
 
-Or else Ilistus’s ambition wild  
+Lest Ilistus' ambition take its flight,
 
-May lead us to a ruin most profound.
-
+And plunge this land into oblivion.
 
 ### Act II Scene II: Council Deliberation
 
@@ -948,7 +947,7 @@ May gods have mercy, for I stand appeased!
 
 ### Act IV Scene III: The King's Burden
 
-*[Enter MINOS, a crown of weight upon his brow, his gaze fixed upon the vast emptiness of the throne room.]*
+*[Enter Minos, a crown of weight upon his brow, his gaze fixed upon the vast emptiness of the throne room.]*
 
 **[Minos]** *With a heavy sigh*
 
@@ -1056,7 +1055,7 @@ Just smoldering embers, stories yet untold.
 
 ### Act IV Scene V: Arise from the Ashes
 
-*[Enter MINOS and AXION, amidst wreckage of the fallen kingdom]*
+*[Enter Minos and Axion, amidst wreckage of the fallen kingdom]*
 
 **[Minos]**
 
@@ -1078,7 +1077,7 @@ We'll carve a path where honor holds its sway,
 
 And cast the darkness of old sins away.
 
-*[Enter MORBIUS, CAPRICIO, and KESTRELIA, with gestures of support]*
+*[Enter MORBIUS, Capricio, and Kestrelia, with gestures of support]*
 
 **[Morbius]**
 
