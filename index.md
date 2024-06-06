@@ -488,7 +488,7 @@ Do stand, let us depart and show our strength,
 
 Our resolve unmatched, beyond all measure.
 
-*[Ilistus exits with several members, heading to the kingdom of Stargate to partake in their tournament, leaving the Watchers' tournament in disarray]*
+*[Ilistus exits with several members, heading to the kingdom of Starglade to partake in their tournament, leaving the Watchers' tournament in disarray]*
 
 ### Act II Scene IV: Cracks in the Foundation
 
